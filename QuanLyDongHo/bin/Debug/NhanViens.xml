@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<NhanViens>
+  <NhanVien>
+    <MaNV>NV001</MaNV>
+    <TenNV>Phan Minh Đạt</TenNV>
+    <NgaySinh>2003-09-24</NgaySinh>
+    <DiaChi>Quảng Nam</DiaChi>
+    <SoDienThoai>0123456789</SoDienThoai>
+    <Email>phanminhdat@gmail.com</Email>
+  </NhanVien>
+  <NhanVien>
+    <MaNV>NV002</MaNV>
+    <TenNV>Nguyễn Văn B</TenNV>
+    <NgaySinh>2003-09-30</NgaySinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <SoDienThoai>0123456789</SoDienThoai>
+    <Email>phanminhdata@gmail.com</Email>
+  </NhanVien>
+</NhanViens>

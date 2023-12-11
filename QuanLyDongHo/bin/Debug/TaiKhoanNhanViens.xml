@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<TaiKhoanNhanViens>
+  <TaiKhoanNhanVien>
+    <MaTK>TK001</MaTK>
+    <TenTK>nhanvien1</TenTK>
+    <MatKhau>nhanvien1</MatKhau>
+    <MaNV>NV001</MaNV>
+  </TaiKhoanNhanVien>
+  <TaiKhoanNhanVien>
+    <MaTK>TK002</MaTK>
+    <TenTK>nhanvien2</TenTK>
+    <MatKhau>nhanvien2</MatKhau>
+    <MaNV>NV002</MaNV>
+  </TaiKhoanNhanVien>
+</TaiKhoanNhanViens>

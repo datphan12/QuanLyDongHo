@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<SanPhams>
+  <SanPham>
+    <MaSP>SP001</MaSP>
+    <TenSP>Đồng hồ thông minh</TenSP>
+    <MoTa>Mô tả sản phẩm 1</MoTa>
+    <SoLuong>15</SoLuong>
+    <GiaTien>3000000</GiaTien>
+  </SanPham>
+  <SanPham>
+    <MaSP>SP002</MaSP>
+    <TenSP>Đồng hồ cơ</TenSP>
+    <MoTa>Mô tả sản phẩm 2</MoTa>
+    <SoLuong>15</SoLuong>
+    <GiaTien>2000000</GiaTien>
+  </SanPham>
+  <SanPham>
+    <MaSP>SP003</MaSP>
+    <TenSP>Đồng hồ đeo tay</TenSP>
+    <MoTa>Mô tả sản phẩm 3</MoTa>
+    <SoLuong>20</SoLuong>
+    <GiaTien>1500000</GiaTien>
+  </SanPham>
+  <SanPham>
+    <MaSP>SP004</MaSP>
+    <TenSP>Đồng hồ thể thao</TenSP>
+    <MoTa>Mô tả sản phẩm 4</MoTa>
+    <SoLuong>8</SoLuong>
+    <GiaTien>4000000</GiaTien>
+  </SanPham>
+  <SanPham>
+    <MaSP>SP005</MaSP>
+    <TenSP>Đồng hồ nữ</TenSP>
+    <MoTa>Mô tả sản phẩm 5</MoTa>
+    <SoLuong>12</SoLuong>
+    <GiaTien>2500000</GiaTien>
+  </SanPham>
+</SanPhams>

@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<HoaDons>
+  <HoaDon>
+    <MaHD>HD001</MaHD>
+    <NgayLap>2023-11-27</NgayLap>
+    <MaNV>NV001</MaNV>
+    <TenKH>Nguyễn Văn B</TenKH>
+    <TongTien>8000000.00</TongTien>
+  </HoaDon>
+  <HoaDon>
+    <MaHD>HD002</MaHD>
+    <NgayLap>2023-11-26</NgayLap>
+    <MaNV>NV001</MaNV>
+    <TenKH>Nguyễn Văn C</TenKH>
+    <TongTien>13500000.00</TongTien>
+  </HoaDon>
+</HoaDons>

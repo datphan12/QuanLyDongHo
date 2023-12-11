@@ -1,0 +1,17 @@
+C:\QuanLyDongHo\QuanLyDongHo\obj\Debug\QuanLyDongHo.csproj.AssemblyReference.cache
+C:\QuanLyDongHo\QuanLyDongHo\obj\Debug\QuanLyDongHo.Properties.Resources.resources
+C:\QuanLyDongHo\QuanLyDongHo\obj\Debug\QuanLyDongHo.Views.DangNhap.resources
+C:\QuanLyDongHo\QuanLyDongHo\obj\Debug\QuanLyDongHo.csproj.GenerateResource.cache
+C:\QuanLyDongHo\QuanLyDongHo\obj\Debug\QuanLyDongHo.csproj.CoreCompileInputs.cache
+C:\QuanLyDongHo\QuanLyDongHo\bin\Debug\QuanLyDongHo.exe.config
+C:\QuanLyDongHo\QuanLyDongHo\bin\Debug\QuanLyDongHo.exe
+C:\QuanLyDongHo\QuanLyDongHo\bin\Debug\QuanLyDongHo.pdb
+C:\QuanLyDongHo\QuanLyDongHo\obj\Debug\QuanLyDongHo.exe
+C:\QuanLyDongHo\QuanLyDongHo\obj\Debug\QuanLyDongHo.pdb
+C:\QuanLyDongHo\QuanLyDongHo\obj\Debug\QuanLyDongHo.Views.TrangChu.resources
+C:\QuanLyDongHo\QuanLyDongHo\obj\Debug\QuanLyDongHo.Views.QuanLySanPham.resources
+C:\QuanLyDongHo\QuanLyDongHo\obj\Debug\QuanLyDongHo.Views.QuanLyNhanVien.resources
+C:\QuanLyDongHo\QuanLyDongHo\obj\Debug\QuanLyDongHo.Views.QuanLyTaiKhoan.resources
+C:\QuanLyDongHo\QuanLyDongHo\obj\Debug\QuanLyDongHo.Views.QuanLyHoaDon.resources
+C:\QuanLyDongHo\QuanLyDongHo\obj\Debug\QuanLyDongHo.Views.ThemHoaDon.resources
+C:\QuanLyDongHo\QuanLyDongHo\obj\Debug\QuanLyDongHo.Views.DoiMatKhau.resources
